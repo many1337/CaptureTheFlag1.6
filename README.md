@@ -1,7 +1,7 @@
 ## CAPTURE THE FLAG - MINI-GAME
 
-- [x] Altay (WORKING)
-- [x] PMMP (WORKING)
+- [x] Altay (WORKING) 1.2-1.6
+- [x] PMMP (WORKING) 1.2-1.6
 
 <pre>
 ===============================================================================================
