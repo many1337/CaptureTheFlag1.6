@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/manyDARK/CaptureTheFlag1.6
+branches:
+- master
+projects:
+  CaptureTheFlag1.6:
+    path: ""
+...
